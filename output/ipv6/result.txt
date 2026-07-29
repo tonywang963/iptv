@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-29 12:42:05,https://iptv.1989.click/cn/6hqbsc?token=9c9d3962c13a246e27006db0c7fc743ea67f69ef64215d0d
+2026-07-29 16:10:23,https://iptv.1989.click/cn/6hqbsc?token=9c9d3962c13a246e27006db0c7fc743ea67f69ef64215d0d
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.1989.click/cn/6hqbsc?token=9c9d3962c13a246e27006db0c7fc743ea67f69ef64215d0d
@@ -67,10 +67,13 @@ CCTV-13,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 凤凰中文,https://cdn.qd.je/163189/fhzw
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,https://cdn.qd.je/163189/fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
+纬来体育,https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,https://cdn.qd.je/163189/fct4k
