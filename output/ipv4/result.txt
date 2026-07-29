@@ -1,17 +1,22 @@
 🕘️更新时间,#genre#
-2026-07-29 12:14:33,http://183.223.157.33:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-07-29 12:42:05,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv2&zy.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://183.223.157.33:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv2&zy.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
-CCTV-5+,http://183.223.157.33:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv9&zy.m3u8
+CCTV-10,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv10&zy.m3u8
+CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-12,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv12&zy.m3u8
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=zjws&zy.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
+湖南卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=hunws&zy.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
