@@ -1,0 +1,14 @@
+🕘️更新时间,#genre#
+2026-07-29 11:23:01,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+
+📺央视频道,#genre#
+CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+
+📡卫视频道,#genre#
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+
+☘️广东频道,#genre#
+广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
